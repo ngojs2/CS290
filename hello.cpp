@@ -4,5 +4,7 @@ using std::endl;
 
 int main()
 {
-	cout << "Hello CS290 class" << endl;
+	cout << "Hello CS290 Class" << endl;
+	
+	return 0;
 }
